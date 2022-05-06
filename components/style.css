@@ -1,0 +1,48 @@
+body {
+  background-color: #282a36;
+  color: #ff79c6;
+  font-family: "Source Code Pro", sans-serif !important;
+}
+
+nav a {
+  background-color: #282a36 !important;
+  color: #ff79c6 !important;
+}
+
+.profile {
+  width: 150px;
+}
+
+.lightweight {
+  padding-top: 75px !important;
+  background: #ff79c6 !important;
+  color: #282a36 !important;
+}
+.about {
+  padding-top: 200px;
+}
+
+.project {
+  padding-top: 50px;
+}
+
+.contact {
+  padding-top: 100px;
+}
+
+.buton {
+  background-color: #ff79c6 !important;
+  border-color: #ff79c6 !important;
+  color: #282a36 !important;
+}
+
+.footer {
+  color: #282a36 !important;
+  background-color: #ff79c6 !important;
+  text-decoration: none;
+}
+
+.social-media {
+  color: #ff79c6 !important;
+  text-decoration: none;
+}
